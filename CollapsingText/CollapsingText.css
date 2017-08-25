@@ -1,0 +1,5 @@
+p.collapsing-text {
+  transition-property: height;
+  transition-duration: 0.3s;
+  overflow: hidden;
+}
